@@ -1,6 +1,3 @@
-import time
-from datetime import datetime
-import sched
 import coffeeShop
 import threading
 
